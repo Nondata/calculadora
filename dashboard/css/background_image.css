@@ -1,0 +1,8 @@
+ .table-responsive{
+    background-image: url("../img/logo_mda.png");
+    background-size: 100%;
+} 
+.table-striped > tbody > tr:nth-child(2n) > td,
+ .table-striped > tbody > tr:nth-child(2n) > th {
+    background-color: transparent;
+ }
